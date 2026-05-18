@@ -14,6 +14,7 @@ render_with_liquid: false
 media_subpath: /assets/img/posts/2025-11-01-blindminerva
 image: 1.jpg
 description: بوف کور، صادق هدایت
+draft: true
 ---
 
 
